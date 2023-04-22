@@ -42,13 +42,10 @@ Here is a general outline of the steps you can follow to implement this project:
 
 * Clues and instructions: Each puzzle has two clues and instructions that are provided in the navigation bar. This feature helps users to understand the puzzle and provide hints to help them solve it.
 
-* Input box: Each puzzle has an input box where users can enter their answer to the puzzle. This feature allows users to input their solution and receive feedback on whether it is correct or not.
-
 * Progress tracking: The application tracks the progress of each user as they solve the puzzles. This feature ensures that users can continue from where they left off if they leave the application and return later.
 
 * Error messages: If a user enters an incorrect answer, the application provides an error message to let the user know that their answer is incorrect. This feature helps users to identify their mistakes and try again.
 
-* Completed puzzles cannot be reopened: Once a puzzle is completed, it cannot be reopened. This feature ensures that users cannot cheat by reopening completed puzzles.
 
 
 
