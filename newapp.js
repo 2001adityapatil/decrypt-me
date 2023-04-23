@@ -356,7 +356,7 @@ app.post("/timertest1", function(req, res){
     })
   
     app.post("/timertest3", function(req, res){
-      if(req.body.val === "http://www.eLitmus.com")
+      if(req.body.val === "www.eLitmus.com")
       {
         end = Date.now();
         var prevtime = 0;
