@@ -25,15 +25,11 @@ Here is a general outline of the steps you can follow to implement this project:
 
 # Skills Developed 
 
-* Communication: Solving puzzles can involve collaboration and communication with others. For example, a user may need to discuss different strategies with friends or family members to find the solution. This can help improve their communication skills and their ability to work effectively in a team.
-
-* Time management: Puzzles often have a time limit or deadline, which requires the user to manage their time effectively to complete the task within the given timeframe. This can help improve time management skills and the ability to prioritize tasks.
-
-* Adaptability: Puzzles can be challenging and may require the user to adapt their approach to solve the problem. As the user works through the puzzles, they become better at adapting to different situations and finding new solutions to problems.
-
-* Perseverance: Solving puzzles can be frustrating and challenging, but it can also be rewarding once the user finds the solution. This can help improve perseverance and the ability to stay focused on a task even when faced with difficulties.
-
-* Attention to detail: Puzzles require the user to pay close attention to details and to notice patterns that may not be immediately obvious. This can help improve their attention to detail and their ability to spot mistakes or errors in other tasks.
+* Communication. 
+* Time management. 
+* Adaptability. 
+* Perseverance. 
+* Attention to detail. 
 
 # Features
 
